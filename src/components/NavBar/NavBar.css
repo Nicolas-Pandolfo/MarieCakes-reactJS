@@ -1,0 +1,14 @@
+.NavBar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: beige;
+}
+
+.Titulo{
+    margin-right: 25rem ;
+}
+
+.Botones{
+    margin-left: 40rem;
+}
