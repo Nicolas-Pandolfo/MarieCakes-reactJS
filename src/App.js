@@ -15,7 +15,7 @@ function App() {
         <Routes>
           <Route path='/' element={<ItemListContainer greeting={"Bienvenidos a mi Ecommerce"}/>}/>
           <Route path='/category/:categoryId' element={<ItemListContainer greeting={"Productos Filtrados"}/>}/>
-          <Route path='/item:itemId' element={<ItemDetailContainer/>}/>
+          <Route path='/item/:itemId' element={<ItemDetailContainer/>}/>
         </Routes>
       </BrowserRouter>
     </div>

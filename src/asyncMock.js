@@ -4,7 +4,7 @@ const products = [
         name: "Alfajor de Maicena",
         price: 950,
         category: "alfajores",
-        img: 'https://drive.google.com/file/d/1Zxt9h19L_OyGpHGlYHV0ubhxbDSzdD2N/view?usp=share_link',
+        img: 'https://www.ohmargott.com/content/uploads/2020/05/DSC00628-01-e1588557286234.jpeg',
         stock: 60,
         description: 'Descripcion de Alfajor de Maicena'
     },
@@ -13,7 +13,7 @@ const products = [
         name: "Box dia del Niño",
         price: 4400,
         category: "boxes",
-        img: 'https://drive.google.com/file/d/1RE7uqDnVsnW3XU0ycGu6OaTM1cag4OAI/view?usp=share_link',
+        img: 'https://pijamadaselmundodelupe.com/wp-content/uploads/2020/08/Box-Dulce-dia-del-ni%C3%B1o-2.jpg',
         stock: 5,
         description: 'Descripcion Box dia del Niño'
     },
@@ -22,7 +22,7 @@ const products = [
         name: "Cookies Halloween",
         price: 3500,
         category: "cookies",
-        img: 'https://drive.google.com/file/d/140gG9z3nL6CbsAvbJcoSOIzd4yp94C3m/view?usp=share_link',
+        img: 'https://sallysbakingaddiction.com/wp-content/uploads/2021/10/halloween-cookies-royal-icing.jpg',
         stock: 120,
         description: 'Descripcion Cookies Halloween'
     },
@@ -31,7 +31,7 @@ const products = [
         name: "Tarta de Frutilla",
         price: 2800,
         category: "tartas",
-        img: 'https://drive.google.com/file/d/1_AvrWYIhsYl7b8X6Jnp23jGaABM62pUk/view?usp=share_link',
+        img: 'https://i.pinimg.com/736x/83/34/8f/83348f4ca9036addd8795da485806337.jpg',
         stock: 8,
         description: 'Descripcion Tarta de Frutilla'
     },
@@ -40,7 +40,7 @@ const products = [
         name: "Drip Cake",
         price: 9300,
         category: "tortas",
-        img: 'https://drive.google.com/file/d/1AfR8-Klv0kMJwbqkD_uza2-Qz6ZK2Keo/view?usp=share_link',
+        img: 'https://d2r9epyceweg5n.cloudfront.net/stores/297/942/products/drip111-df85f1df8ab9bd0ced15240777444660-1024-1024.jpg',
         stock: 3,
         description: 'Descripcion Drip Cake'
     },
