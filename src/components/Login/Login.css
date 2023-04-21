@@ -1,0 +1,29 @@
+.Username {
+    font-size: 20px;
+    display: flex;
+    background: transparent;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.Password {
+    margin-top: 20px;
+    font-size: 20px;
+    display: flex;
+    background: transparent;
+    justify-content: space-around;
+    align-items: center;
+}
+
+button{
+    width: auto;
+    padding: 12px;
+    background: #a878df;
+    border-radius: 8px;
+    text-decoration: none;
+    color: #FFFFFF;
+    border: none;
+    border-style: none;
+    cursor: pointer;
+    outline: inherit;
+}

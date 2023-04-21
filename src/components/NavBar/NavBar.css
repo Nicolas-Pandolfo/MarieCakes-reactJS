@@ -1,14 +1,76 @@
 .NavBar {
     display: flex;
+    background: transparent;
     justify-content: space-around;
     align-items: center;
     background-color: beige;
 }
+.CartWidget{
+  margin-left: 5rem;
+}
 
 .Titulo{
-    margin-right: 25rem ;
+    margin-right: 30rem ;
+    text-decoration: none;
+    border-radius: 40;
+    font-size: 20px;
+    color: rgb(245, 129, 149);
 }
 
-.Botones{
-    margin-left: 40rem;
-}
+.Categories {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+.Option {
+    text-decoration: none;
+    border-radius: 25;
+    margin: 10px;
+    width: auto;
+    padding: 10px;
+    font-size: 15px;
+    background: #a878df;
+    border-radius: 99px;
+    flex: none;
+    display: flex;
+    order: 1;
+    align-self: center;
+    flex-grow: 0;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: #FFFFFF;
+    border: none;
+    border-style: none;
+    cursor: pointer;
+    outline: inherit;
+  }
+  
+.ActiveOption {
+    text-decoration: none;
+    border-radius: 25;
+    margin: 10px;
+    width: auto;
+    padding: 15px;
+    font-size: 15px;
+    background: rgb(196, 122, 214);
+    border-radius: 99px;
+    flex: none;
+    display: flex;
+    order: 1;
+    align-self: center;
+    flex-grow: 0;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: #FFFFFF;
+    border: none;
+    border-style: none;
+    cursor: pointer;
+    outline: inherit;
+  }
+  
+.NavLink {
+    color :rgb(255, 0, 0)
+  }
