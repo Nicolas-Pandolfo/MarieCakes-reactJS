@@ -8,9 +8,10 @@
 
 ##Instalacion para uso dle proyecto
 
-```bash
-git clone [https://github.com/Nicolas-Pandolfo/MarieCakes-reactJS.git](https://github.com/Nicolas-Pandolfo/MarieCakes-reactJS.git)
 
+>git clone [](https://github.com/Nicolas-Pandolfo/MarieCakes-reactJS.git)
+
+```bash
 npm install
 
 npm start
