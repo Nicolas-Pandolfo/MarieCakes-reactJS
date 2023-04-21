@@ -6,7 +6,7 @@
 
 >Para ciertos estilos se utilizo boostrap y sweetalert2 para notificaciones
 
-##Instalacion para uso dle proyecto
+##Instalacion para uso del proyecto
 
 
 >git clone [https://github.com/Nicolas-Pandolfo/MarieCakes-reactJS.git](https://github.com/Nicolas-Pandolfo/MarieCakes-reactJS.git)
