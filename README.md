@@ -8,7 +8,7 @@
 
 ##Instalacion para uso dle proyecto
 
-``'bash
+```bash
 git clone [https://github.com/Nicolas-Pandolfo/MarieCakes-reactJS.git](https://github.com/Nicolas-Pandolfo/MarieCakes-reactJS.git)
 
 npm install
@@ -18,4 +18,4 @@ npm start
 
 ##Ejemplo de como desplazarse dentro de la pagina
 
-![](DesplazamientoWeb.gif)
+>![](DesplazamientoWeb.gif)
